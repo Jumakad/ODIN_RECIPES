@@ -1,0 +1,32 @@
+/* style.css */
+
+div {
+    color: white;
+    background-color: red;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+}
+p {
+    color: white;
+    background-color: green;
+    font-size: 18px;
+
+}
+button {
+    background-color: orange;
+    font-size: 18px;
+}
+body {
+
+    background-image: url("http://3.bp.blogspot.com/-W2jQWVn4FX8/UP1balL5U8I/AAAAAAAAF4o/uBJ6utW7vGI/s1600/poori+masala+recipe.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgb(159, 132, 132);
+    margin-left: 10px;
+    margin-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 15px;
+}
+
+
